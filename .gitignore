@@ -1,0 +1,4 @@
+logs.txt
+kafkalogs.txt
+*.exe
+go.work
